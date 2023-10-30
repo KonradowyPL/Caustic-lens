@@ -1,4 +1,4 @@
-# Caustic-lense
+# Caustic-lens
 
 Context: https://youtu.be/wk67eGXtbIw
 
